@@ -1,0 +1,24 @@
+
+
+
+jForm
+
+Source / Design
+
+Change Variable Name
+Properties...
+
+get = pegando valor
+set = setando valor
+
+Setar um texto
+ID.setText("texto");
+
+Pegar um valor que o usuario digitou
+String texto = ID.getText();
+
+ID.setText(texto)
+
+Saber se um checkbox esta marcado
+if (ID.isSelected()) {
+ id.setText("texto")
