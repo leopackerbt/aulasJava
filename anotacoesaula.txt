@@ -1,0 +1,10 @@
+Orientação a objetos - 10/03
+
+classe = forma
+atributos = caracteristicas
+metodos = comportamentos que a classe pode ter
+
+Classe se usa PascalCase
+Métodos/Atributo/variáveis se usa camelCase
+
+método void() não dá retorno (vazio)
